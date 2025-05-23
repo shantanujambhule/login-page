@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-route
 import LandingPage from './components/LandingPage';
 import LoginScreen from './components/LoginScreen';
 import profile from './components/profile';
-import SignupScreen from './components/SignupScreen';
+import SignUpScreen from './components/SignUpScreen';
 
 function App() {
   return (
