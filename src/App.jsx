@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, useNavigate } from 'react-router-dom';
 import LandingPage from './components/LandingPage';
 import LoginScreen from './components/LoginScreen';
-import Profile from './components/Profile';
+import Profile from './components/profile';
 import SignupScreen from './components/SignupScreen';
 
 function App() {
